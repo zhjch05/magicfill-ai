@@ -2,7 +2,7 @@
 
 ## **1. Introduction**
 
-Welcome to Magic Fill ("the App"). These Terms and Conditions ("Terms") govern your use of our services, software, and website located at magicfill.jczstudio.com ("Service"). By accessing or using our Service, you agree to these Terms. If you do not agree with these Terms, you must not use the Service.
+Welcome to Magic Fill ("the App"). These Terms and Conditions ("Terms") govern your use of our services, software, and website located at [https://github.com/zhjch05/magicfill-ai](https://github.com/zhjch05/magicfill-ai) ("Service"). By accessing or using our Service, you agree to these Terms. If you do not agree with these Terms, you must not use the Service.
 
 ## **2. Definitions**
 
