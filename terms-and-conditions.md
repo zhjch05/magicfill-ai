@@ -37,7 +37,7 @@ You agree not to:
 
 ## **6. Data Privacy**
 
-Our collection and use of your personal data are governed by our [Privacy Policy](Privacy Policy URL), which is incorporated by reference into these Terms. By using the Service, you agree to our Privacy Policy.
+Our collection and use of your personal data are governed by our [Privacy Policy](privacy-policy.md), which is incorporated by reference into these Terms. By using the Service, you agree to our Privacy Policy.
 
 ## **7. Intellectual Property**
 

@@ -1,6 +1,6 @@
 # Privacy Policy for Magic Fill
 
-## Effective Date: 2024-03-31
+## Effective Date: 2024-09-22
 
 Welcome to Magic Fill. We are committed to protecting your privacy and ensuring the security of the information you provide to us. This Privacy Policy outlines our practices concerning the collection, use, and safeguarding of your data.
 
