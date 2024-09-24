@@ -69,4 +69,4 @@ We may modify these Terms from time to time. Any changes will be posted on this 
 
 ## **14. Contact Us**
 
-If you have any questions about these Terms, please contact us at james@jczstudio.com.
+If you have any questions about these Terms, please contact us at magicfill@jczstudio.com.

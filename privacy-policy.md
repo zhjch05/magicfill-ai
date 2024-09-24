@@ -26,7 +26,7 @@ We do not share data with third parties. Your information is used exclusively fo
 
 ## 6. Contact Information
 
-For any questions or concerns regarding this Privacy Policy or your data's handling, please contact us at james@jczstudio.com. We are dedicated to addressing your privacy-related inquiries and ensuring your rights are respected.
+For any questions or concerns regarding this Privacy Policy or your data's handling, please contact us at magicfill@jczstudio.com. We are dedicated to addressing your privacy-related inquiries and ensuring your rights are respected.
 
 ## Changes to This Privacy Policy
 
